@@ -14,8 +14,13 @@ While C-ALL (not now lol) has plenty of functions, you can't call any of them yo
 ## How to Write and Run C-ALL Code
 I would love to tell you, but uh, you can't right now because I am still making it. So shoo. Also, are you ok? Like, why would you want to use this?
 
-## [x] I am Clinically Insane
-Well, I would love to explain in great detail how it works since you have decided to sacrifice yourself to this endeavor, but uh, we flying kinda empty right now. Come back later or message me so I could tell you at length about it, I guess?
+## How Can I Help?
+First, please make sure you check the following boxes:
+- [x] I am clinically insane
+
+Ok, all good? Well, great, happy to have you.
+
+In this section, I would go into more detail about how everything works, but really, there is not enough here for that. So, if you really do desperately want to work on this, uh, just message me and I will dump all of the forbidden knowledge on you.
 
 ## Repository Info
 ![GitHub contributors](https://img.shields.io/github/contributors/k00lmans/C-ALL)
