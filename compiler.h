@@ -1,0 +1,4 @@
+#ifndef C_ALL_COMPILER_H
+#define C_ALL_COMPILER_H
+
+#endif //C_ALL_COMPILER_H
